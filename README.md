@@ -135,5 +135,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Sheikh Muhammad Khizar**  
 Software Engineer
-_Freelance MERN Stack Developer_  
 
