@@ -133,7 +133,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Sheix Muhammad Khizar**  
-BS Software Engineering'26  
-_Freelance MERN Developer & WordPress Specialist_  
-LinkedIn: [@SheixKhizar](https://www.linkedin.com/in/your-profile)
+**Sheikh Muhammad Khizar**  
+Software Engineer
+_Freelance MERN Stack Developer_  
+
